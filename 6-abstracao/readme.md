@@ -1,0 +1,3 @@
+
+## Abstração
+Uma classe abstrata é uma classe que não pode ser instanciada diretamente e é destinada a ser uma classe base para outras classes (conhecidas como classes derivadas ou subclasses). As classes abstratas podem ter métodos abstratos, que são métodos que são declarados na classe abstrata, mas não fornecem uma implementação. As subclasses devem fornecer implementações concretas para esses métodos abstratos.
